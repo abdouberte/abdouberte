@@ -9,7 +9,7 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement **à améliorer mes anciens des projets web**
+- 🔭 Je travaille actuellement **à améliorer mes anciens projets web**
 - 📫 Comment me contacter : **abdouberte97@gmail.com**
 - ⚡ Fun fact : J’adore coder avec de la musique afro en fond 🎧
 
