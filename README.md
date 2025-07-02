@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Fullstack passionné de code, design et projets web modernes 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdouberte&label=Vues+du+profil&color=0e75b6&style=flat" alt="abdou" />
+<!--   <img src="https://komarev.com/ghpvc/?username=abdouberte&label=Vues+du+profil&color=0e75b6&style=flat" alt="abdou" /> -->
 </p>
 
 ---
